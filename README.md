@@ -27,11 +27,8 @@ This is a web application built using **React.js** that helps users find and exp
 
 ## 📌 How to run the project
 
-1. **Clone the repository**
 
-```bash
- git clone https://github.com/your-username/food-recipe-app.git
- cd food-recipe-app
+
 
 2. **Install all required packages**
 
@@ -53,8 +50,7 @@ This is a web application built using **React.js** that helps users find and exp
 The project is live and can be accessed here:
 🔗 https://food-recipe-app-d8e2e.web.app
 
-👩‍💻 About Me
-I’m Sowmya, a frontend developer passionate about building responsive and user-friendly web applications. This project helped me strengthen my skills in React, API integration, and UI design.
+
 
 Feel free to check out more of my work here:
 🔗 GitHub Profile
