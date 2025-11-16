@@ -46,6 +46,10 @@ This is a web application built using **React.js** that helps users find and exp
  http://localhost:3000 
 
 
+
+git hub 
+https://github.com/AkshayMoger27/food-app
+
  🌐 Deployment
 The project is live and can be accessed here:
 🔗 https://food-recipe-app-d8e2e.web.app
